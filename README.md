@@ -1,0 +1,1 @@
+# spam-coin-website
