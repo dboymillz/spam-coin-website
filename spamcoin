@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SPAM Coin - The Tastiest Meme Coin!</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #003366;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #0055cc;
+      padding: 10px 0;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .banner {
+      text-align: center;
+      padding: 50px 20px;
+      background: url('https://via.placeholder.com/1920x600') no-repeat center;
+      background-size: cover;
+      color: white;
+    }
+    .banner h1 {
+      font-size: 3em;
+    }
+    .banner p {
+      font-size: 1.5em;
+    }
+    .features {
+      display: flex;
+      justify-content: space-around;
+      padding: 20px;
+      background-color: #fff;
+    }
+    .features div {
+      text-align: center;
+      width: 30%;
+    }
+    footer {
+      text-align: center;
+      padding: 10px 0;
+      background-color: #003366;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>SPAM Coin</h1>
+    <p>The Tastiest Meme Coin on the Blockchain!</p>
+  </header>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#roadmap">Roadmap</a>
+    <a href="#buy">Buy SPAM</a>
+    <a href="#community">Community</a>
+    <a href="#faq">FAQs</a>
+  </nav>
+  <div class="banner">
+    <h1>Welcome to SPAM Coin!</h1>
+    <p>Join the Fun. Own the Meme. Taste the Gains.</p>
+    <button>Buy SPAM Now</button>
+  </div>
+  <div class="features">
+    <div>
+      <h2>100% Meme</h2>
+      <p>Built for laughs and gains.</p>
+    </div>
+    <div>
+      <h2>Community Driven</h2>
+      <p>You’re part of the SPAM family!</p>
+    </div>
+    <div>
+      <h2>Rewards</h2>
+      <p>Hold SPAM and earn tasty rewards.</p>
+    </div>
+  </div>
+  <footer>
+    <p>&copy; 2025 SPAM Coin. All Rights Reserved.</p>
+    <p>Follow us on Twitter, Telegram, and Discord!</p>
+  </footer>
+</body>
+</html>
